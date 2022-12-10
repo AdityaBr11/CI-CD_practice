@@ -42,7 +42,9 @@ function App() {
               {item.watchers_count} stars
               </Heading>
             </Box>
+            
           </div>
+
         ))}
     </div>
   );
